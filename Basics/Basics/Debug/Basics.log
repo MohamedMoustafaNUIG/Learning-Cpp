@@ -1,0 +1,3 @@
+﻿  LoopsEx.cpp
+C:\Users\mohdm\workspace\LearnCpp1\Basics\Basics\LoopsEx.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Basics.vcxproj -> C:\Users\mohdm\workspace\LearnCpp1\Basics\Debug\Basics.exe
